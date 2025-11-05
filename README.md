@@ -1,2 +1,0 @@
-# simulador_tarifario
-simulador
